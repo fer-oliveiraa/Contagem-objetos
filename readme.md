@@ -31,5 +31,18 @@ Este projeto realiza a **detecção e contagem de objetos** em imagens utilizand
 1. Clone este repositório:
 
    ```bash
-   git clone https://github.com/seu-usuario/contagem-objetos-opencv.git
+   git clone https://github.com/fer-oliveiraa/contagem-objetos-opencv.git
    cd contagem-objetos-opencv
+
+2. Instale as dependências:
+
+    ```bash
+    pip install opencv-python numpy
+
+Certifique-se de que a imagem chocolates.jpg esteja dentro da pasta images/.
+
+3. Execute o script:
+
+      ```bash
+      python main.py
+
