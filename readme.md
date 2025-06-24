@@ -1,10 +1,10 @@
-# 🧠 Contagem de Objetos com OpenCV
+# Contagem de Objetos com OpenCV
 
 Este projeto realiza a **detecção e contagem de objetos** em imagens utilizando técnicas avançadas de **processamento de imagem** com a biblioteca OpenCV. A aplicação identifica objetos mesmo quando estão **colados ou sobrepostos**, como no exemplo com chocolates.
 
 ---
 
-## 📌 Funcionalidades
+## Funcionalidades
 
 - ✅ Conversão para escala de cinza e equalização de histograma  
 - ✅ Binarização automática com **Otsu**  
@@ -16,7 +16,7 @@ Este projeto realiza a **detecção e contagem de objetos** em imagens utilizand
 
 ---
 
-## 🖼️ Exemplo
+## Exemplo
 
 - **Imagem de entrada:**  
   `images/chocolates.jpg`  
@@ -26,7 +26,7 @@ Este projeto realiza a **detecção e contagem de objetos** em imagens utilizand
 
 ---
 
-## 🚀 Como Executar
+## Como Executar
 
 1. Clone este repositório:
 
